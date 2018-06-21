@@ -1,4 +1,5 @@
-# Dash Sentinel
+# Rapid Sentinel
+# Currently under work 
 
 An all-powerful toolset for Dash.
 
